@@ -50,10 +50,10 @@ SELECT DISTINCT
 FROM dbo.StageIncident
 GO
 
-DROP VIEW IF EXISTS dbo.vw_pbiIvolvement
+DROP VIEW IF EXISTS dbo.vw_pbiInvolvement
 GO
 
-CREATE VIEW dbo.vw_pbiIvolvement
+CREATE VIEW dbo.vw_pbiInvolvement
 AS
 SELECT	DISTINCT
 	CAST(involvementcode AS VARCHAR(5)) InvolvementCodeID,

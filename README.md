@@ -6,5 +6,5 @@ Welcome to the K12:  Power BI Attendance and Incident solution.  This is a commu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U1dC-iKgKys?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-</html>
 </body>
+</html>
